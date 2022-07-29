@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00_Scenes/Menu.unity
+    guid: caeab48d7697ed244a69637df1abb59d
+  - enabled: 1
+    path: Assets/00_Scenes/Tutorial.unity
+    guid: 88c66356f4453ab4fb4e91e721de9b6c
+  - enabled: 1
+    path: Assets/00_Scenes/Level 2.unity
+    guid: e3bcafd5126eb1e46bd2f23b71c3b921
+  - enabled: 1
+    path: Assets/00_Scenes/Level 3.unity
+    guid: 25a35146001f4a24fb60ecac5fb3d9ae
+  - enabled: 1
+    path: Assets/00_Scenes/Creditos.unity
+    guid: fce5f96395dc0bb419797796750a1fcc
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 217bf22ed22ce3a4e9fe9ac52764b6ea, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f87f9f1371d192348ab5f03c09d183fe, type: 2}

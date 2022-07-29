@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f438b956a15ee01419b02873edb14f77
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - JMH Typewriter dry
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 211e91abb1519ad4ba4ce77c5477a70f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
